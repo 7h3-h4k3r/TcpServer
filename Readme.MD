@@ -1,5 +1,4 @@
 
-````markdown
 # 🔌 Python Socket Programming
 
 Learn the fundamentals of socket programming in Python using the built-in `socket` module. This project demonstrates how to create a basic client-server communication model.
@@ -102,6 +101,5 @@ tcp_server version:v0.1
 
 Created by \[SRIDHARANITHARAN]
 
-```
 
 
